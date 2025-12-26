@@ -1,4 +1,4 @@
-name: Build Test
+name: Build Test [![Build Test](https://github.com/tw93/Hamster/actions/workflows/ci.yml/badge.svg)](https://github.com/tw93/Hamster/actions/workflows/ci.yml)
 on:
   push:
     branches:
